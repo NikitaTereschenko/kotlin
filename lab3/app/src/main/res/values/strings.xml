@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Чарли</string>
+    <string name="dog_name_2">Кекс</string>
+    <string name="dog_name_3">Боря</string>
+    <string name="dog_name_4">Фима</string>
+    <string name="dog_name_5">Бадди</string>
+    <string name="dog_name_6">Эля</string>
+    <string name="dog_name_7">Киря</string>
+    <string name="dog_name_8">Бобик</string>
+    <string name="dog_name_9">Ричи</string>
+    <string name="dog_description_1">Грызет палки на терассе</string>
+    <string name="dog_description_2">Любит порычать</string>
+    <string name="dog_description_3">Крадет носки</string>
+    <string name="dog_description_4">Встречает новых друзей</string>
+    <string name="dog_description_5">Роет в огороде</string>
+    <string name="dog_description_6">Погоня</string>
+    <string name="dog_description_7">Беспокоет родителей</string>
+    <string name="dog_description_8">Загорает</string>
+    <string name="dog_description_9">Спит в опасных местах</string>
+    <string name="about">Подробнее:</string>
+    <string name="years_old">%d лет</string>
+    <string name="expand_button_content_description">Узнать больше или меньше о собаке</string>
+</resources>
