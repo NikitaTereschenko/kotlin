@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Race tracker</string>
+    <string name="run_a_race">Начать гонку</string>
+    <string name="pause">Пауза</string>
+    <string name="start">Старт</string>
+    <string name="reset">Заново</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="player_one_name">Игрок 1</string>
+    <string name="player_two_name">Игрок 2</string>
+</resources>
