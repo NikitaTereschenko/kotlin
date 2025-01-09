@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba39e1c-9f7f-48a3-a14e-e64d194ce7e3" name="Changes" comment="Лабораторная работа 6" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,22 +22,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;NikitaTereschenko&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NikitaTereschenko/kotlin&quot;,
-    &quot;accountId&quot;: &quot;b756b399-6611-4a61-8e24-8d338a03ed52&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2qCudCPP5Ahc6AZshyZsu2NAbLR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,26 +34,11 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "#6 on AVb-21-12-Tereschenko-6",
-    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ba39e1c-9f7f-48a3-a14e-e64d194ce7e3" name="Changes" comment="" />
-      <created>1734178962207</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1734178962207</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Лабораторная работа 6">
-      <option name="closed" value="true" />
-      <created>1734179092634</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1734179092634</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -84,7 +54,6 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="AVb-21-12-Tereschenko-6" />
                       </list>
                     </value>
                   </entry>
@@ -97,7 +66,5 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Лабораторная работа 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа 6" />
   </component>
 </project>
