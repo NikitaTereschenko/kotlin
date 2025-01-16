@@ -4,157 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780d3f5d-184d-4921-9e2d-c69cc9db1400" name="Changes" comment="Лабораторная работа 5">
-      <change beforePath="$PROJECT_DIR$/lab1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/androidTest/java/com/example/greetingcard/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/java/com/example/greetingcard/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/java/com/example/greetingcard/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/java/com/example/greetingcard/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/java/com/example/greetingcard/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/app/src/test/java/com/example/greetingcard/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/java/com/example/lemonade/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/java/com/example/lemonade/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/java/com/example/lemonade/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/java/com/example/lemonade/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable/lemon_drink.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable/lemon_restart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable/lemon_squeeze.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/drawable/lemon_tree.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/8.11.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/caches/deviceStreaming.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/java/com/example/tiptime/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/java/com/example/tiptime/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/java/com/example/tiptime/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/java/com/example/tiptime/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/drawable/money.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/drawable/percent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/settings.gradle.kts" beforeDir="false" />
+    <list default="true" id="3ba39e1c-9f7f-48a3-a14e-e64d194ce7e3" name="Changes" comment="Лабораторная работа 6" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,22 +22,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NikitaTereschenko"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NikitaTereschenko/kotlin.git",
-    "accountId": "b756b399-6611-4a61-8e24-8d338a03ed52"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2qCg5055OeV0NrlW6NyduRon8Y4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -200,26 +34,11 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "AVb-21-12-Tereschenko-5",
-    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="780d3f5d-184d-4921-9e2d-c69cc9db1400" name="Changes" comment="" />
-      <created>1734171783314</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1734171783314</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Лабораторная работа 5">
-      <option name="closed" value="true" />
-      <created>1734172014840</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1734172014840</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -235,7 +54,6 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/AVb-21-12-Tereschenko-5" />
                       </list>
                     </value>
                   </entry>
@@ -248,7 +66,5 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Лабораторная работа 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа 5" />
   </component>
 </project>

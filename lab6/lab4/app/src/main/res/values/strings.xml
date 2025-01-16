@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">СуПеР ГеРоИ</string>
+    <string name="hero1">Ночной Колян</string>
+    <string name="description1">Летающий герой</string>
+    <string name="hero2">Реаальный защитник</string>
+    <string name="description2">Знает правду обо всем</string>
+    <string name="hero3">Андрюха Гигант</string>
+    <string name="description3">Имитирует темное и светлое и смешивает их</string>
+    <string name="hero4">Бравый Беня</string>
+    <string name="description4">Использует силу канарейки для развития...</string>
+    <string name="hero5">Великолепный Мару</string>
+    <string name="description5">Летит, чтоб спасти ваш день</string>
+    <string name="hero6">Жасмин</string>
+    <string name="description6">Принимает любую форму и высасывает энергию из всего</string>
+</resources>
