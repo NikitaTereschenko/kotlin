@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Амфибии</string>
-    <string name="loading_failed">Ошибка загрузки!</string>
-    <string name="retry">Попробовать заново</string>
-    <string name="loading">Загрузка...</string>
-    <string name="amphibian_title">%s (%s)</string>
-</resources>
